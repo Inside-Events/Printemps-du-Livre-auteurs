@@ -65,6 +65,7 @@ const AUTEURS = [
   { name: "Jean-Christophe PAILLÉ", cat: "generaliste", source: "libraire", stand: "B", v: false, s: false, d: true },
   { name: "Jean-Luc BIZIEN", cat: "generaliste", source: "libraire", stand: "E", v: true, s: true, d: true },
   { name: "Jean-Philippe DAGUERRE", cat: "generaliste", source: "libraire", stand: "A", v: true, s: true, d: "matin" },
+  { name: "Jerem'illustrations", cat: "bd", source: "libraire", stand: "13", v: false, s: false, d: true, highlight: "" },
   { name: "Johan VINCENT", cat: "generaliste", source: "libraire", stand: "A", v: true, s: true, d: false },
   { name: "Joseph MACÉ-SCARON", cat: "generaliste", source: "libraire", stand: "B", v: true, s: true, d: true },
   { name: "Julien SANDREL", cat: "generaliste", source: "libraire", stand: "E", v: false, s: true, d: "matin" },
